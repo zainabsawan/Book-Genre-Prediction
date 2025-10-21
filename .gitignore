@@ -1,0 +1,24 @@
+# Virtual environments
+.books-env/
+books-env/
+.venv/
+venv/
+
+# Jupyter auto-generated files
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Data and output folders
+data/
+output/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
